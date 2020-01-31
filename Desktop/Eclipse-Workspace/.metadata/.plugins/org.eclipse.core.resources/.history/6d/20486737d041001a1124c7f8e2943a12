@@ -1,0 +1,18 @@
+
+public static void main(String[] args) {
+new class -> Elephant
+public class Elephant {
+	        String species = "asian";
+			String colour = "grey";
+			int legs = 3;
+			
+}
+}
+}
+public class Application { 
+	public static void main(String[] args) {
+		Elephant dumbo = new Elephant();
+		System.out.println(dumbo.colour)
+		System.out.println(dumbo.legs);
+	}
+}

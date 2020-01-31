@@ -1,0 +1,12 @@
+
+public class Arrays {
+	public static void main(String[] args) {
+//int [] ageArray = {25,30,21,56,67,39,8};
+//System.out.println(ageArray);
+
+String name = "Haziq";
+String [] row2 = {name, "haziq", "hazza"};
+;
+System.out.println(row2[0]);
+}}
+

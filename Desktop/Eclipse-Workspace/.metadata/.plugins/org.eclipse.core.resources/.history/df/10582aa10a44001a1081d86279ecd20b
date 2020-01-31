@@ -1,0 +1,12 @@
+package com.qa.calculator;
+
+
+public class Calculator {
+	public static void main(String[] args) {
+
+		
+			int[] numbers= {(int) a,(int) b,(int) c};
+			System.out.println(numbers.length);
+
+
+	}}

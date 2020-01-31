@@ -1,0 +1,18 @@
+package com.qa.garage1;
+
+public class Car extends Vehicle{
+	@Override
+	public void move() {
+		System.out.println("VROOM");
+	}
+@Override
+	public void brakes() {
+	System.out.println("screech");
+	
+	
+}
+
+public void number_of_doors() {
+	System.out.println("4");
+}}
+

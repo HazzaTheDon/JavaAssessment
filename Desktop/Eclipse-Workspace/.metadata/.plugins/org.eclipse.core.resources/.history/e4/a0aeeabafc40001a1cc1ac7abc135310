@@ -1,0 +1,8 @@
+
+public class LearningMethods {
+	public static void main(String[] args) {
+		public static void IsDivisibleByFour(int num) {
+			System.out.println(num4==0);
+		}
+	}
+}

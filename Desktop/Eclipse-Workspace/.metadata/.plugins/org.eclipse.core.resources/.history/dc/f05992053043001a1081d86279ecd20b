@@ -1,0 +1,11 @@
+package com.qa.garage1;
+
+public class Runnner {
+	public static void main(String[] args) {
+		Car car= new Car();
+		car.move();
+		car.brake();
+		car.number_of_doors();
+	}
+
+}

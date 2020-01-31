@@ -1,0 +1,14 @@
+package com.qa.garage1;
+
+public abstract class Vehicle {
+	public abstract void move(); 
+	public abstract void brakes();
+	public abstract void numberOfDoors();
+	public abstract void fuelType();
+	public abstract void motorbikeType();
+	public abstract void numberOfWheels();
+	
+	
+	
+
+}

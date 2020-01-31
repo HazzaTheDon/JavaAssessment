@@ -1,0 +1,16 @@
+
+public class MyFirstClass {
+	public static void main (String[] args) {
+	
+	int a = 48;
+	int b = 19;
+	System.out.println(a+b);
+	String greeting = "Thanks for qu";
+			System.out.println(greeting);
+			int num=22;
+					System.out.println(++num);
+					System.out.println(num);}}
+
+
+// = assign to 
+// == is it equal?

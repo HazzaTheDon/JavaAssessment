@@ -1,0 +1,12 @@
+
+public class loops {
+	public static void main(String[] args) {
+		
+			
+			for(int money=0; money<10; money++) {
+				System.out.println("'another one' in DJ Khaled's voice");
+				
+			}
+			System.out.println("I was broke but i'm living in the hills now");
+
+	}}

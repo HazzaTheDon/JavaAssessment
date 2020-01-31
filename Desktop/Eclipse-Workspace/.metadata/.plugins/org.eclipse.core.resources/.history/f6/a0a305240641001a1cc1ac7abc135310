@@ -1,0 +1,12 @@
+
+public class Scope {
+	public static void main(String[] args) {
+		int number = 5;
+				System.out.println(number);
+		printy();
+	public statuc void printy() {
+		System.out.println(number);
+		
+	}
+
+}

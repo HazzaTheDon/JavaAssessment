@@ -1,0 +1,21 @@
+package com.qa.calculator;
+
+
+public class Calculator {
+public int multiply(int num1, int num2) {
+	return num1 * num2;
+}
+	public float divide(int num3, int num4) {
+	return num3 / num4;
+	}
+	public int add(int num6, int num5) {
+	return num6 + num5; 
+	}
+	public int substract(int num7, int num8) {
+		return num7 - num8;
+	}
+	
+}
+
+
+

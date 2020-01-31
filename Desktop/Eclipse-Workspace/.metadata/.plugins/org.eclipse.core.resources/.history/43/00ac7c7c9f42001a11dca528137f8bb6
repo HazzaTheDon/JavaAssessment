@@ -1,0 +1,6 @@
+package com.qa.garage;
+
+public abstract class Vehicles {
+	public abstract void move();
+
+}

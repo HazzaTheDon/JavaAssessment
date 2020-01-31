@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="OfflineExercisesTest" project="OfflineExercises" tests="9" started="9" failures="0" errors="9" ignored="0">
+  <testsuite name="test.OfflineExercisesTest" time="0.006">
+    <testcase name="endsDev" classname="test.OfflineExercisesTest" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token(s), misplaced construct(s)
+	The method length() is undefined for the type OfflineExercises
+	The method Sort(int[]) is undefined for the type Arrays
+	The left-hand side of an assignment must be a variable
+	Syntax error, insert ";" to complete ReturnStatement
+	Syntax error, insert "}" to complete MethodBody
+	Type mismatch: cannot convert from String to boolean
+	i cannot be resolved to a variable
+	The method newChar(String) is undefined for the type OfflineExercises
+	Syntax error on token "else", while expected
+	Syntax error on token(s), misplaced construct(s)
+	Syntax error, insert "}" to complete ClassBody
+	Duplicate local variable arg1
+	Char cannot be resolved to a type
+	Class&lt;Char[]&gt; cannot be resolved to a type
+	Syntax error, insert ". class" to complete Expression
+	Syntax error, insert ";" to complete BlockStatements
+	Array cannot be resolved to a variable
+	Syntax error, insert ";" to complete Statement
+	Syntax error, insert ". class" to complete Expression
+	The left-hand side of an assignment must be a variable
+	i cannot be resolved to a variable
+	args1 cannot be resolved to a variable
+	i cannot be resolved to a variable
+	Syntax error, insert "}" to complete MethodBody
+&#13;
+	at main.OfflineExercises.&lt;init&gt;(OfflineExercises.java:17)&#13;
+	at test.OfflineExercisesTest.&lt;init&gt;(OfflineExercisesTest.java:18)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="largestTest" classname="test.OfflineExercisesTest" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token(s), misplaced construct(s)
+	The method length() is undefined for the type OfflineExercises
+	The method Sort(int[]) is undefined for the type Arrays
+	The left-hand side of an assignment must be a variable
+	Syntax error, insert ";" to complete ReturnStatement
+	Syntax error, insert "}" to complete MethodBody
+	Type mismatch: cannot convert from String to boolean
+	i cannot be resolved to a variable
+	The method newChar(String) is undefined for the type OfflineExercises
+	Syntax error on token "else", while expected
+	Syntax error on token(s), misplaced construct(s)
+	Syntax error, insert "}" to complete ClassBody
+	Duplicate local variable arg1
+	Char cannot be resolved to a type
+	Class&lt;Char[]&gt; cannot be resolved to a type
+	Syntax error, insert ". class" to complete Expression
+	Syntax error, insert ";" to complete BlockStatements
+	Array cannot be resolved to a variable
+	Syntax error, insert ";" to complete Statement
+	Syntax error, insert ". class" to complete Expression
+	The left-hand side of an assignment must be a variable
+	i cannot be resolved to a variable
+	args1 cannot be resolved to a variable
+	i cannot be resolved to a variable
+	Syntax error, insert "}" to complete MethodBody
+&#13;
+	at main.OfflineExercises.&lt;init&gt;(OfflineExercises.java:17)&#13;
+	at test.OfflineExercisesTest.&lt;init&gt;(OfflineExercisesTest.java:18)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="getBert" classname="test.OfflineExercisesTest" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token(s), misplaced construct(s)
+	The method length() is undefined for the type OfflineExercises
+	The method Sort(int[]) is undefined for the type Arrays
+	The left-hand side of an assignment must be a variable
+	Syntax error, insert ";" to complete ReturnStatement
+	Syntax error, insert "}" to complete MethodBody
+	Type mismatch: cannot convert from String to boolean
+	i cannot be resolved to a variable
+	The method newChar(String) is undefined for the type OfflineExercises
+	Syntax error on token "else", while expected
+	Syntax error on token(s), misplaced construct(s)
+	Syntax error, insert "}" to complete ClassBody
+	Duplicate local variable arg1
+	Char cannot be resolved to a type
+	Class&lt;Char[]&gt; cannot be resolved to a type
+	Syntax error, insert ". class" to complete Expression
+	Syntax error, insert ";" to complete BlockStatements
+	Array cannot be resolved to a variable
+	Syntax error, insert ";" to complete Statement
+	Syntax error, insert ". class" to complete Expression
+	The left-hand side of an assignment must be a variable
+	i cannot be resolved to a variable
+	args1 cannot be resolved to a variable
+	i cannot be resolved to a variable
+	Syntax error, insert "}" to complete MethodBody
+&#13;
+	at main.OfflineExercises.&lt;init&gt;(OfflineExercises.java:17)&#13;
+	at test.OfflineExercisesTest.&lt;init&gt;(OfflineExercisesTest.java:18)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="nMid" classname="test.OfflineExercisesTest" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token(s), misplaced construct(s)
+	The method length() is undefined for the type OfflineExercises
+	The method Sort(int[]) is undefined for the type Arrays
+	The left-hand side of an assignment must be a variable
+	Syntax error, insert ";" to complete ReturnStatement
+	Syntax error, insert "}" to complete MethodBody
+	Type mismatch: cannot convert from String to boolean
+	i cannot be resolved to a variable
+	The method newChar(String) is undefined for the type OfflineExercises
+	Syntax error on token "else", while expected
+	Syntax error on token(s), misplaced construct(s)
+	Syntax error, insert "}" to complete ClassBody
+	Duplicate local variable arg1
+	Char cannot be resolved to a type
+	Class&lt;Char[]&gt; cannot be resolved to a type
+	Syntax error, insert ". class" to complete Expression
+	Syntax error, insert ";" to complete BlockStatements
+	Array cannot be resolved to a variable
+	Syntax error, insert ";" to complete Statement
+	Syntax error, insert ". class" to complete Expression
+	The left-hand side of an assignment must be a variable
+	i cannot be resolved to a variable
+	args1 cannot be resolved to a variable
+	i cannot be resolved to a variable
+	Syntax error, insert "}" to complete MethodBody
+&#13;
+	at main.OfflineExercises.&lt;init&gt;(OfflineExercises.java:17)&#13;
+	at test.OfflineExercisesTest.&lt;init&gt;(OfflineExercisesTest.java:18)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="fizzBuzzTest" classname="test.OfflineExercisesTest" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token(s), misplaced construct(s)
+	The method length() is undefined for the type OfflineExercises
+	The method Sort(int[]) is undefined for the type Arrays
+	The left-hand side of an assignment must be a variable
+	Syntax error, insert ";" to complete ReturnStatement
+	Syntax error, insert "}" to complete MethodBody
+	Type mismatch: cannot convert from String to boolean
+	i cannot be resolved to a variable
+	The method newChar(String) is undefined for the type OfflineExercises
+	Syntax error on token "else", while expected
+	Syntax error on token(s), misplaced construct(s)
+	Syntax error, insert "}" to complete ClassBody
+	Duplicate local variable arg1
+	Char cannot be resolved to a type
+	Class&lt;Char[]&gt; cannot be resolved to a type
+	Syntax error, insert ". class" to complete Expression
+	Syntax error, insert ";" to complete BlockStatements
+	Array cannot be resolved to a variable
+	Syntax error, insert ";" to complete Statement
+	Syntax error, insert ". class" to complete Expression
+	The left-hand side of an assignment must be a variable
+	i cannot be resolved to a variable
+	args1 cannot be resolved to a variable
+	i cannot be resolved to a variable
+	Syntax error, insert "}" to complete MethodBody
+&#13;
+	at main.OfflineExercises.&lt;init&gt;(OfflineExercises.java:17)&#13;
+	at test.OfflineExercisesTest.&lt;init&gt;(OfflineExercisesTest.java:18)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="superBlockTest" classname="test.OfflineExercisesTest" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token(s), misplaced construct(s)
+	The method length() is undefined for the type OfflineExercises
+	The method Sort(int[]) is undefined for the type Arrays
+	The left-hand side of an assignment must be a variable
+	Syntax error, insert ";" to complete ReturnStatement
+	Syntax error, insert "}" to complete MethodBody
+	Type mismatch: cannot convert from String to boolean
+	i cannot be resolved to a variable
+	The method newChar(String) is undefined for the type OfflineExercises
+	Syntax error on token "else", while expected
+	Syntax error on token(s), misplaced construct(s)
+	Syntax error, insert "}" to complete ClassBody
+	Duplicate local variable arg1
+	Char cannot be resolved to a type
+	Class&lt;Char[]&gt; cannot be resolved to a type
+	Syntax error, insert ". class" to complete Expression
+	Syntax error, insert ";" to complete BlockStatements
+	Array cannot be resolved to a variable
+	Syntax error, insert ";" to complete Statement
+	Syntax error, insert ". class" to complete Expression
+	The left-hand side of an assignment must be a variable
+	i cannot be resolved to a variable
+	args1 cannot be resolved to a variable
+	i cannot be resolved to a variable
+	Syntax error, insert "}" to complete MethodBody
+&#13;
+	at main.OfflineExercises.&lt;init&gt;(OfflineExercises.java:17)&#13;
+	at test.OfflineExercisesTest.&lt;init&gt;(OfflineExercisesTest.java:18)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="multChar" classname="test.OfflineExercisesTest" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token(s), misplaced construct(s)
+	The method length() is undefined for the type OfflineExercises
+	The method Sort(int[]) is undefined for the type Arrays
+	The left-hand side of an assignment must be a variable
+	Syntax error, insert ";" to complete ReturnStatement
+	Syntax error, insert "}" to complete MethodBody
+	Type mismatch: cannot convert from String to boolean
+	i cannot be resolved to a variable
+	The method newChar(String) is undefined for the type OfflineExercises
+	Syntax error on token "else", while expected
+	Syntax error on token(s), misplaced construct(s)
+	Syntax error, insert "}" to complete ClassBody
+	Duplicate local variable arg1
+	Char cannot be resolved to a type
+	Class&lt;Char[]&gt; cannot be resolved to a type
+	Syntax error, insert ". class" to complete Expression
+	Syntax error, insert ";" to complete BlockStatements
+	Array cannot be resolved to a variable
+	Syntax error, insert ";" to complete Statement
+	Syntax error, insert ". class" to complete Expression
+	The left-hand side of an assignment must be a variable
+	i cannot be resolved to a variable
+	args1 cannot be resolved to a variable
+	i cannot be resolved to a variable
+	Syntax error, insert "}" to complete MethodBody
+&#13;
+	at main.OfflineExercises.&lt;init&gt;(OfflineExercises.java:17)&#13;
+	at test.OfflineExercisesTest.&lt;init&gt;(OfflineExercisesTest.java:18)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="evenlySpaced" classname="test.OfflineExercisesTest" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token(s), misplaced construct(s)
+	The method length() is undefined for the type OfflineExercises
+	The method Sort(int[]) is undefined for the type Arrays
+	The left-hand side of an assignment must be a variable
+	Syntax error, insert ";" to complete ReturnStatement
+	Syntax error, insert "}" to complete MethodBody
+	Type mismatch: cannot convert from String to boolean
+	i cannot be resolved to a variable
+	The method newChar(String) is undefined for the type OfflineExercises
+	Syntax error on token "else", while expected
+	Syntax error on token(s), misplaced construct(s)
+	Syntax error, insert "}" to complete ClassBody
+	Duplicate local variable arg1
+	Char cannot be resolved to a type
+	Class&lt;Char[]&gt; cannot be resolved to a type
+	Syntax error, insert ". class" to complete Expression
+	Syntax error, insert ";" to complete BlockStatements
+	Array cannot be resolved to a variable
+	Syntax error, insert ";" to complete Statement
+	Syntax error, insert ". class" to complete Expression
+	The left-hand side of an assignment must be a variable
+	i cannot be resolved to a variable
+	args1 cannot be resolved to a variable
+	i cannot be resolved to a variable
+	Syntax error, insert "}" to complete MethodBody
+&#13;
+	at main.OfflineExercises.&lt;init&gt;(OfflineExercises.java:17)&#13;
+	at test.OfflineExercisesTest.&lt;init&gt;(OfflineExercisesTest.java:18)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="amISearchTest" classname="test.OfflineExercisesTest" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token(s), misplaced construct(s)
+	The method length() is undefined for the type OfflineExercises
+	The method Sort(int[]) is undefined for the type Arrays
+	The left-hand side of an assignment must be a variable
+	Syntax error, insert ";" to complete ReturnStatement
+	Syntax error, insert "}" to complete MethodBody
+	Type mismatch: cannot convert from String to boolean
+	i cannot be resolved to a variable
+	The method newChar(String) is undefined for the type OfflineExercises
+	Syntax error on token "else", while expected
+	Syntax error on token(s), misplaced construct(s)
+	Syntax error, insert "}" to complete ClassBody
+	Duplicate local variable arg1
+	Char cannot be resolved to a type
+	Class&lt;Char[]&gt; cannot be resolved to a type
+	Syntax error, insert ". class" to complete Expression
+	Syntax error, insert ";" to complete BlockStatements
+	Array cannot be resolved to a variable
+	Syntax error, insert ";" to complete Statement
+	Syntax error, insert ". class" to complete Expression
+	The left-hand side of an assignment must be a variable
+	i cannot be resolved to a variable
+	args1 cannot be resolved to a variable
+	i cannot be resolved to a variable
+	Syntax error, insert "}" to complete MethodBody
+&#13;
+	at main.OfflineExercises.&lt;init&gt;(OfflineExercises.java:17)&#13;
+	at test.OfflineExercisesTest.&lt;init&gt;(OfflineExercisesTest.java:18)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+&#13;
+</error>
+    </testcase>
+  </testsuite>
+</testrun>

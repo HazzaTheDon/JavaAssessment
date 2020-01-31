@@ -1,0 +1,12 @@
+
+public class loops {
+	public static void main(String[] args) {
+		int MoneyCount =0;
+		boolean NotEnoughMoney = true;
+		
+		while (NotEnoughMoney)
+			System.out.println("Another Pound");
+			MoneyCount++;
+			if (MoneyCount> 1000000000)
+				NotEnoughMoney= false;
+			System.out.println("I was broke but i'm living in the hills now");}}

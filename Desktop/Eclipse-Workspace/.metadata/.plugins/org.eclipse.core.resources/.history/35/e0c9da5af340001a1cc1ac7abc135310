@@ -1,0 +1,34 @@
+
+public class MyFirstClass {
+	public static void main (String[] args) {
+	
+	int a = 48;
+	int b = 19;
+	System.out.println(a+b);
+	String greeting = "Thanks for qu";
+			System.out.println(greeting);
+			int num1=22;
+			int num2= num1;
+					System.out.println(num1/2);
+
+					Scanner scanner = new Scanner(System.in);
+			        System.out.println("Please enter first number to find GCD");
+			        int number1 = scanner.nextInt();
+			        System.out.println("Please enter second number to find GCD");
+			        int number2 = scanner.nextInt();
+			      
+			        System.out.println("GCD of two numbers " + number1 +" and " 
+			                           + number2 +" is :" + findGCD(number1,number2));
+			      
+
+
+					
+					
+					
+					
+					
+					
+					
+
+// = assign to 
+// == is it equal?

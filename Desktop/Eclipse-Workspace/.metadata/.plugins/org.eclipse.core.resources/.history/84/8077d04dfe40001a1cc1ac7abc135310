@@ -1,0 +1,8 @@
+
+public class LearningMethods {
+	public static void main(String[] args) {
+		IsDivisible(69,23);}
+		public static void IsDivisible(int num,int divider) {
+			System.out.println(num %divider == 0);
+		}
+	}

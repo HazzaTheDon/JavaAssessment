@@ -1,0 +1,13 @@
+package com.qa.garage;
+
+public class Car extends Vehicle{
+	@Override
+	public void() {
+		System.out.println("VROOM");
+	}
+public void brakes() {
+	System.out.println("screech");
+	
+	
+}
+

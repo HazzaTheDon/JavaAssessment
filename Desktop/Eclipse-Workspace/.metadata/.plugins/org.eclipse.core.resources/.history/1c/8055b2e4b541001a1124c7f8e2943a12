@@ -1,0 +1,32 @@
+import java.util.ArrayList;
+
+public class Arrays {
+	public static void main(String[] args) {
+
+//String name = "Haziq";
+//String [] row2 = {name, "haziq", "hazza"};
+//row2[0]="yooo";
+//System.out.println(row2[0]);
+//
+
+//		int[] ageArray = { 25, 30, 21, 56, 67, 39, 8 };
+//		System.out.println(ageArray);
+
+//		int[][] ageArray = { 25, 30, 21}{56, 67, 39} {8};
+//		System.out.println(ageArray);
+////		
+//		String[] row6 = {"Doug","Josh","Sam"};
+//		String[] row5 = {"Nisha", "Laurence", "Ashima"};
+//		String[] row7 = {"Mumba", "Prem"};
+//		String[][] room = {row6, row5, row7};
+//		System.out.println(room[0][1]);
+//		System.out.println(room[1][2]);
+//		System.out.println(room[2][0]);
+//		room[1][1]= "jess";
+//		System.out.println(room[1][1]);
+		
+ArrayList <String> row5= new ArrayList<String>();
+System.out.println(row5.add("L"));
+
+System.out.println(row5.size());
+}}
